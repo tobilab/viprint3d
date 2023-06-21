@@ -1,15 +1,9 @@
 {
     "default_filament_colour": [
-        "#000000"
+        "#FFFFFF"
     ],
     "enable_pressure_advance": [
         "1"
-    ],
-    "eng_plate_temp": [
-        "60"
-    ],
-    "eng_plate_temp_initial_layer": [
-        "60"
     ],
     "fan_max_speed": [
         "70"
@@ -24,29 +18,29 @@
         "1.746"
     ],
     "filament_flow_ratio": [
-        "0.932"
+        "0.937"
     ],
     "filament_retraction_length": [
-        "1"
+        "1.1"
+    ],
+    "filament_retraction_speed": [
+        "40"
     ],
     "filament_settings_id": [
-        "PETG - RAL9017 (Schwarz) - 0,4 Nozzle - superfilament"
+        "PETG - RAL9016 (Verkehrsweiss) - 0,4 Nozzle - superfilament"
     ],
     "filament_z_hop": [
         "0.6"
     ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
     "from": "User",
-    "hot_plate_temp": [
-        "60"
-    ],
-    "hot_plate_temp_initial_layer": [
-        "60"
-    ],
     "inherits": "Generic PETG",
     "is_custom_defined": "0",
-    "name": "PETG - RAL9017 (Schwarz) - 0,4 Nozzle - superfilament",
+    "name": "PETG - RAL9016 (Verkehrsweiss) - 0,4 Nozzle - superfilament",
     "nozzle_temperature": [
-        "260"
+        "250"
     ],
     "nozzle_temperature_initial_layer": [
         "240"
@@ -58,7 +52,7 @@
         "230"
     ],
     "pressure_advance": [
-        "0.025"
+        "0.031"
     ],
     "slow_down_layer_time": [
         "6"
@@ -67,10 +61,10 @@
         "85"
     ],
     "textured_plate_temp": [
-        "60"
+        "75"
     ],
     "textured_plate_temp_initial_layer": [
-        "60"
+        "75"
     ],
     "version": "1.6.0.2"
 }
