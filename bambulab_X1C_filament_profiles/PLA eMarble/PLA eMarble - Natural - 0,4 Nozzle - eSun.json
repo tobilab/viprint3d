@@ -1,0 +1,72 @@
+{
+    "default_filament_colour": [
+        "#F0F0F0"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "eng_plate_temp": [
+        "55"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "55"
+    ],
+    "filament_deretraction_speed": [
+        "0"
+    ],
+    "filament_diameter": [
+        "1.73"
+    ],
+    "filament_flow_ratio": [
+        "0.927"
+    ],
+    "filament_max_volumetric_speed": [
+        "18"
+    ],
+    "filament_retraction_length": [
+        "0.8"
+    ],
+    "filament_retraction_minimum_travel": [
+        "2"
+    ],
+    "filament_retraction_speed": [
+        "30"
+    ],
+    "filament_settings_id": [
+        "PLA eMarble - Natural - 0,4 Nozzle - eSun"
+    ],
+    "filament_z_hop": [
+        "0.4"
+    ],
+    "filament_z_hop_types": [
+        "Normal Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "65"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "65"
+    ],
+    "inherits": "Generic PLA",
+    "name": "PLA eMarble - Natural - 0,4 Nozzle - eSun",
+    "nozzle_temperature": [
+        "230"
+    ],
+    "nozzle_temperature_range_high": [
+        "230"
+    ],
+    "pressure_advance": [
+        "0.033"
+    ],
+    "temperature_vitrification": [
+        "51"
+    ],
+    "textured_plate_temp": [
+        "65"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "65"
+    ],
+    "version": "1.6.0.2"
+}
