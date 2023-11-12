@@ -8,6 +8,12 @@
     "fan_cooling_layer_time": [
         "8"
     ],
+    "filament_cost": [
+        "46.65"
+    ],
+    "filament_density": [
+        "1.19"
+    ],
     "filament_flow_ratio": [
         "1.04"
     ],
@@ -36,6 +42,9 @@
     "nozzle_temperature_initial_layer": [
         "250"
     ],
+    "nozzle_temperature_range_low": [
+        "230"
+    ],
     "overhang_fan_threshold": [
         "10%"
     ],
@@ -50,6 +59,9 @@
     ],
     "support_material_interface_fan_speed": [
         "100"
+    ],
+    "temperature_vitrification": [
+        "110"
     ],
     "version": "1.7.0.18"
 }

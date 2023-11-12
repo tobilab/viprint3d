@@ -35,6 +35,9 @@
     "filament_notes": [
         "Vollständig kalibriert seit 7.10.2023.\nLetzte Änderung: -"
     ],
+    "filament_retract_when_changing_layer": [
+        "1"
+    ],
     "filament_retraction_length": [
         "0.6"
     ],

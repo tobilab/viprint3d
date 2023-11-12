@@ -35,11 +35,14 @@
     "filament_notes": [
         "Vollständig kalibriert seit 8.10.2023.\nLetzte Änderung: -"
     ],
+    "filament_retract_when_changing_layer": [
+        "1"
+    ],
     "filament_retraction_length": [
-        "0.6"
+        "0.9"
     ],
     "filament_retraction_speed": [
-        "40"
+        "50"
     ],
     "filament_settings_id": [
         "PETG - RAL9016 (Verkehrsweiss) - 0,4 Nozzle - superfilament"
