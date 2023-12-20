@@ -48,14 +48,14 @@
         "0.4"
     ],
     "filament_z_hop_types": [
-        "Normal Lift"
+        "Spiral Lift"
     ],
     "from": "User",
     "hot_plate_temp": [
-        "45"
+        "50"
     ],
     "hot_plate_temp_initial_layer": [
-        "45"
+        "50"
     ],
     "inherits": "Generic PLA",
     "name": "PLA+ - Schwarz - 0,4 Nozzle - eSun",

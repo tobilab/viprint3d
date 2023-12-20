@@ -1,6 +1,9 @@
 {
+    "additional_cooling_fan_speed": [
+        "95"
+    ],
     "close_fan_the_first_x_layers": [
-        "4"
+        "2"
     ],
     "default_filament_colour": [
         "#FF0000"
@@ -14,6 +17,9 @@
     "eng_plate_temp_initial_layer": [
         "55"
     ],
+    "fan_cooling_layer_time": [
+        "7"
+    ],
     "filament_cost": [
         "21"
     ],
@@ -24,13 +30,13 @@
         "0"
     ],
     "filament_diameter": [
-        "1.723"
-    ],
-    "filament_flow_ratio": [
-        "0.929"
+        "1.731"
     ],
     "filament_max_volumetric_speed": [
         "20"
+    ],
+    "filament_retract_when_changing_layer": [
+        "0"
     ],
     "filament_retraction_length": [
         "0.8"
@@ -39,10 +45,13 @@
         "2"
     ],
     "filament_retraction_speed": [
-        "30"
+        "40"
     ],
     "filament_settings_id": [
         "PLA+ - Firered - 0,4 Nozzle - eSun"
+    ],
+    "filament_vendor": [
+        "eSun"
     ],
     "filament_z_hop": [
         "0.4"
@@ -51,37 +60,31 @@
         "Normal Lift"
     ],
     "from": "User",
-    "hot_plate_temp": [
-        "65"
-    ],
-    "hot_plate_temp_initial_layer": [
-        "65"
-    ],
     "inherits": "Generic PLA",
     "name": "PLA+ - Firered - 0,4 Nozzle - eSun",
-    "nozzle_temperature": [
-        "245"
-    ],
     "nozzle_temperature_range_high": [
         "230"
     ],
     "nozzle_temperature_range_low": [
         "210"
     ],
+    "overhang_fan_threshold": [
+        "25%"
+    ],
     "pressure_advance": [
-        "0.025"
+        "0.02622"
     ],
     "slow_down_layer_time": [
-        "4"
+        "3"
+    ],
+    "slow_down_min_speed": [
+        "0.5"
+    ],
+    "support_material_interface_fan_speed": [
+        "100"
     ],
     "temperature_vitrification": [
         "53"
-    ],
-    "textured_plate_temp": [
-        "65"
-    ],
-    "textured_plate_temp_initial_layer": [
-        "65"
     ],
     "version": "1.4.1.4"
 }
