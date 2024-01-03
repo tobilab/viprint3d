@@ -87,6 +87,9 @@
     "pressure_advance": [
         "0.034"
     ],
+    "slow_down_min_speed": [
+        "0.5"
+    ],
     "temperature_vitrification": [
         "94"
     ],

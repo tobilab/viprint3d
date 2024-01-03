@@ -9,10 +9,10 @@
         "1"
     ],
     "eng_plate_temp": [
-        "70"
+        "65"
     ],
     "eng_plate_temp_initial_layer": [
-        "70"
+        "65"
     ],
     "fan_max_speed": [
         "70"
@@ -24,16 +24,25 @@
         "1.07"
     ],
     "filament_diameter": [
-        "1.76"
+        "1.67"
     ],
     "filament_end_gcode": [
         "; filament end gcode \nM106 P3 S120\n"
     ],
     "filament_flow_ratio": [
-        "0.976"
+        "1"
     ],
     "filament_max_volumetric_speed": [
-        "19"
+        "16"
+    ],
+    "filament_retract_when_changing_layer": [
+        "1"
+    ],
+    "filament_retraction_length": [
+        "0.8"
+    ],
+    "filament_retraction_speed": [
+        "50"
     ],
     "filament_settings_id": [
         "ASA+ - 9016 (Verkehrsweiß) - 0_4 Nozzle x 0_2 LH - superfilament"
@@ -52,19 +61,19 @@
     ],
     "from": "User",
     "hot_plate_temp": [
-        "70"
+        "65"
     ],
     "hot_plate_temp_initial_layer": [
-        "70"
+        "65"
     ],
     "inherits": "Bambu ABS @BBL X1C",
     "is_custom_defined": "0",
     "name": "ASA+ - 9016 (Verkehrsweiß) - 0_4 Nozzle x 0_2 LH - superfilament",
     "nozzle_temperature": [
-        "260"
+        "255"
     ],
     "nozzle_temperature_initial_layer": [
-        "245"
+        "255"
     ],
     "nozzle_temperature_range_high": [
         "230"
@@ -76,16 +85,19 @@
         "70"
     ],
     "pressure_advance": [
-        "0.023"
+        "0.0426"
+    ],
+    "slow_down_min_speed": [
+        "0.5"
     ],
     "temperature_vitrification": [
         "94"
     ],
     "textured_plate_temp": [
-        "70"
+        "65"
     ],
     "textured_plate_temp_initial_layer": [
-        "70"
+        "65"
     ],
     "version": "1.6.0.2"
 }

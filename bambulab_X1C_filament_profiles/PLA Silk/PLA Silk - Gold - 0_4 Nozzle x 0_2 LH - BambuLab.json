@@ -1,0 +1,28 @@
+{
+    "default_filament_colour": [
+        "#E7C505"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_diameter": [
+        "1.799"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "PLA Silk - Gold - 0_4 Nozzle x 0_2 LH - BambuLab"
+    ],
+    "from": "User",
+    "inherits": "Bambu PLA Silk @BBL X1C",
+    "is_custom_defined": "0",
+    "name": "PLA Silk - Gold - 0_4 Nozzle x 0_2 LH - BambuLab",
+    "pressure_advance": [
+        "0.0202"
+    ],
+    "slow_down_min_speed": [
+        "0.5"
+    ],
+    "version": "1.7.0.18"
+}
