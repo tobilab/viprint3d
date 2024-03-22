@@ -32,9 +32,6 @@
     "filament_flow_ratio": [
         "1"
     ],
-    "filament_max_volumetric_speed": [
-        "16"
-    ],
     "filament_retract_when_changing_layer": [
         "1"
     ],
