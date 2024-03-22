@@ -11,6 +11,12 @@
     "eng_plate_temp_initial_layer": [
         "50"
     ],
+    "fan_cooling_layer_time": [
+        "7"
+    ],
+    "fan_min_speed": [
+        "50"
+    ],
     "filament_cost": [
         "21"
     ],
@@ -51,12 +57,6 @@
         "Normal Lift"
     ],
     "from": "User",
-    "hot_plate_temp": [
-        "45"
-    ],
-    "hot_plate_temp_initial_layer": [
-        "45"
-    ],
     "inherits": "Generic PLA",
     "is_custom_defined": "0",
     "name": "PLA Pro - RAL9007 (GrauAlum) - 0_4 Nozzle x 0_2 LH - superfilament",
@@ -67,16 +67,16 @@
         "0.026"
     ],
     "slow_down_layer_time": [
-        "4"
+        "3"
+    ],
+    "slow_down_min_speed": [
+        "0.5"
+    ],
+    "support_material_interface_fan_speed": [
+        "100"
     ],
     "temperature_vitrification": [
         "53"
-    ],
-    "textured_plate_temp": [
-        "50"
-    ],
-    "textured_plate_temp_initial_layer": [
-        "50"
     ],
     "version": "1.4.1.4"
 }

@@ -24,7 +24,7 @@
         "1.07"
     ],
     "filament_diameter": [
-        "1.67"
+        "1.68"
     ],
     "filament_end_gcode": [
         "; filament end gcode \nM106 P3 S120\n"
@@ -61,10 +61,10 @@
     ],
     "from": "User",
     "hot_plate_temp": [
-        "65"
+        "75"
     ],
     "hot_plate_temp_initial_layer": [
-        "65"
+        "75"
     ],
     "inherits": "Bambu ABS @BBL X1C",
     "is_custom_defined": "0",

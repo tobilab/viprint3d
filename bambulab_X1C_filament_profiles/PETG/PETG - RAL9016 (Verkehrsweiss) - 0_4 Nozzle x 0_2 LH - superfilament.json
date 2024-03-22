@@ -24,10 +24,10 @@
         "27.99"
     ],
     "filament_diameter": [
-        "1.746"
+        "1.739"
     ],
     "filament_flow_ratio": [
-        "1.001"
+        "1"
     ],
     "filament_max_volumetric_speed": [
         "21"
@@ -57,6 +57,12 @@
         "Spiral Lift"
     ],
     "from": "User",
+    "hot_plate_temp": [
+        "75"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "75"
+    ],
     "inherits": "Generic PETG",
     "is_custom_defined": "0",
     "name": "PETG - RAL9016 (Verkehrsweiss) - 0_4 Nozzle x 0_2 LH - superfilament",

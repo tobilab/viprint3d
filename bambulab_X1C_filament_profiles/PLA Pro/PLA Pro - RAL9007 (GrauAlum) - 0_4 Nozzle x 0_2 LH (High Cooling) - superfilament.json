@@ -1,18 +1,18 @@
 {
-    "close_fan_the_first_x_layers": [
-        "4"
-    ],
     "default_filament_colour": [
-        "#000000"
-    ],
-    "enable_pressure_advance": [
-        "1"
+        "#909090"
     ],
     "eng_plate_temp": [
-        "72"
+        "50"
     ],
     "eng_plate_temp_initial_layer": [
-        "75"
+        "50"
+    ],
+    "fan_cooling_layer_time": [
+        "7"
+    ],
+    "fan_min_speed": [
+        "50"
     ],
     "filament_cost": [
         "21"
@@ -24,7 +24,7 @@
         "0"
     ],
     "filament_diameter": [
-        "1.723"
+        "1.737"
     ],
     "filament_flow_ratio": [
         "1"
@@ -33,16 +33,19 @@
         "20"
     ],
     "filament_retraction_length": [
-        "0.8"
+        "1"
     ],
     "filament_retraction_minimum_travel": [
         "2"
     ],
     "filament_retraction_speed": [
-        "30"
+        "40"
     ],
     "filament_settings_id": [
-        "PVB (Fibersmooth) - Schwarz - 0_4 Nozzle x 0_2 LH - Polymaker"
+        "PLA Pro - RAL9007 (GrauAlum) - 0_4 Nozzle x 0_2 LH (High Cooling) - superfilament"
+    ],
+    "filament_vendor": [
+        "superfilament"
     ],
     "filament_z_hop": [
         "0.4"
@@ -51,41 +54,26 @@
         "Normal Lift"
     ],
     "from": "User",
-    "hot_plate_temp": [
-        "72"
-    ],
-    "hot_plate_temp_initial_layer": [
-        "75"
-    ],
     "inherits": "Generic PLA",
     "is_custom_defined": "0",
-    "name": "PVB (Fibersmooth) - Schwarz - 0_4 Nozzle x 0_2 LH - Polymaker",
-    "nozzle_temperature": [
-        "230"
-    ],
-    "nozzle_temperature_initial_layer": [
-        "225"
-    ],
+    "name": "PLA Pro - RAL9007 (GrauAlum) - 0_4 Nozzle x 0_2 LH (High Cooling) - superfilament",
     "nozzle_temperature_range_high": [
-        "230"
-    ],
-    "nozzle_temperature_range_low": [
-        "210"
+        "220"
     ],
     "pressure_advance": [
         "0.026"
     ],
     "slow_down_layer_time": [
-        "4"
+        "3"
+    ],
+    "slow_down_min_speed": [
+        "0.5"
+    ],
+    "support_material_interface_fan_speed": [
+        "100"
     ],
     "temperature_vitrification": [
         "53"
-    ],
-    "textured_plate_temp": [
-        "75"
-    ],
-    "textured_plate_temp_initial_layer": [
-        "75"
     ],
     "version": "1.4.1.4"
 }
