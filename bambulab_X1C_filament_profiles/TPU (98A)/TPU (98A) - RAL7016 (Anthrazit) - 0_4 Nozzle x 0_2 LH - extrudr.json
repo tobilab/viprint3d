@@ -1,6 +1,6 @@
 {
     "additional_cooling_fan_speed": [
-        "99"
+        "100"
     ],
     "default_filament_colour": [
         "#505050"
@@ -23,6 +23,9 @@
     "filament_flow_ratio": [
         "1.04"
     ],
+    "filament_max_volumetric_speed": [
+        "8.5"
+    ],
     "filament_notes": [
         "Flow manuell kalibriert und PA fehlt."
     ],
@@ -43,28 +46,25 @@
     "is_custom_defined": "0",
     "name": "TPU (98A) - RAL7016 (Anthrazit) - 0_4 Nozzle x 0_2 LH - extrudr",
     "nozzle_temperature": [
-        "250"
+        "237"
     ],
     "nozzle_temperature_initial_layer": [
-        "250"
+        "237"
     ],
     "nozzle_temperature_range_low": [
         "230"
     ],
     "overhang_fan_threshold": [
-        "10%"
+        "25%"
     ],
     "pressure_advance": [
-        "0.089"
+        "0.1"
     ],
     "slow_down_layer_time": [
         "2"
     ],
     "slow_down_min_speed": [
         "0.5"
-    ],
-    "support_material_interface_fan_speed": [
-        "100"
     ],
     "temperature_vitrification": [
         "110"

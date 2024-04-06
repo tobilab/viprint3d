@@ -1,0 +1,85 @@
+{
+    "close_fan_the_first_x_layers": [
+        "2"
+    ],
+    "default_filament_colour": [
+        "#000000"
+    ],
+    "during_print_exhaust_fan_speed": [
+        "60"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "eng_plate_temp": [
+        "100"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "100"
+    ],
+    "fan_max_speed": [
+        "30"
+    ],
+    "filament_cost": [
+        "19.99"
+    ],
+    "filament_density": [
+        "1.06"
+    ],
+    "filament_diameter": [
+        "1.765"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "35"
+    ],
+    "filament_notes": [
+        "Recommended settings of the manufacturer:\nprint speeds general: 40 - 100mm/s\nFirst layer： 50mm/s\nFirst Layer infill： 50mm/s\nOuter wall： 200mm/s\nInner wall： 270mm/s\nSparse infill： 250mm/s\nInternal solid infill： 250mm/s\nTop surface： 200mm/s\nSlow down for overhangs：ON\nOverhang speed： default\nBridge： 50mm/s\nGap infill： 250mm/s\nTravel speed： 300mm/s\nAccelerations:\nFirst layer： 500\nOuter wall： 5000\nTop surface： 2000\nNormal printing：10000\nFan: OFF"
+    ],
+    "filament_retract_when_changing_layer": [
+        "1"
+    ],
+    "filament_retraction_length": [
+        "0.8"
+    ],
+    "filament_settings_id": [
+        "ABS+ - Schwarz - 0_6 Nozzle x 0_3 LH - eSun"
+    ],
+    "filament_vendor": [
+        "eSun"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "100"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "100"
+    ],
+    "inherits": "Generic ABS",
+    "is_custom_defined": "0",
+    "name": "ABS+ - Schwarz - 0_6 Nozzle x 0_3 LH - eSun",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "nozzle_temperature_range_high": [
+        "270"
+    ],
+    "nozzle_temperature_range_low": [
+        "230"
+    ],
+    "pressure_advance": [
+        "0.017"
+    ],
+    "slow_down_min_speed": [
+        "0.5"
+    ],
+    "textured_plate_temp": [
+        "75"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "75"
+    ],
+    "version": "1.8.0.25"
+}

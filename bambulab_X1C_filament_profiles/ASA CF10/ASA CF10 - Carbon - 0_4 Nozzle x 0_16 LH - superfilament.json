@@ -1,0 +1,76 @@
+{
+    "default_filament_colour": [
+        "#303030"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "eng_plate_temp": [
+        "95"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "95"
+    ],
+    "filament_cost": [
+        "55"
+    ],
+    "filament_density": [
+        "1.1"
+    ],
+    "filament_diameter": [
+        "1.74"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_notes": [
+        "Durchschnittsquerschnitt: 1.7455"
+    ],
+    "filament_retract_when_changing_layer": [
+        "0"
+    ],
+    "filament_retraction_length": [
+        "0.8"
+    ],
+    "filament_settings_id": [
+        "ASA CF10 - Carbon - 0_4 Nozzle x 0_16 LH - superfilament"
+    ],
+    "filament_vendor": [
+        "superfilament"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "95"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "95"
+    ],
+    "inherits": "Generic ASA",
+    "is_custom_defined": "0",
+    "name": "ASA CF10 - Carbon - 0_4 Nozzle x 0_16 LH - superfilament",
+    "nozzle_temperature_range_high": [
+        "260"
+    ],
+    "nozzle_temperature_range_low": [
+        "235"
+    ],
+    "overhang_fan_threshold": [
+        "10%"
+    ],
+    "pressure_advance": [
+        "0.017"
+    ],
+    "slow_down_min_speed": [
+        "0.5"
+    ],
+    "temperature_vitrification": [
+        "95"
+    ],
+    "textured_plate_temp": [
+        "95"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "95"
+    ],
+    "version": "1.8.0.25"
+}

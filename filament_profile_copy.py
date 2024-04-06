@@ -2,12 +2,15 @@
 """
 Spyder Editor
 
-This is a temporary script file.
 """
 
 import glob
 import os
 import shutil
+
+git_mainlocation = r""+os.environ["GIT_VIPRINT3D_MAINLOCATION"]
+git_main_path = r""+os.path.join(git_mainlocation,"bambulab_X1C_filament_profiles")
+orca_filament_main_path = r""+os.environ["ORCA_FILAMENT_PROFILES_FOLDER"]
 
 
 def get_viprint3d_filamentprofile(filename, sep, num_seps):
@@ -26,13 +29,11 @@ def transfer_profile_by_name(src_location, material, profile_filename, target_lo
                              os.path.join(target_location, material, profile_filename+ending))
         return 1
     except Exception as e:
-        print(
-            f"Failed copying filepath: {os.path.join(orca_filament_main_path,new_profile+ending)} to location: {os.path.join(git_main_path,material,new_profile+ending)}")
+        print(f"Failed copying filepath: {os.path.join(orca_filament_main_path,new_profile+ending)} to location: {os.path.join(git_main_path,material,new_profile+ending)}")
         return 0
 
 
-git_main_path = r"C:\Git\viprint3d_public\bambulab_X1C_filament_profiles"
-orca_filament_main_path = r"C:\Users\wagne\AppData\Roaming\OrcaSlicer\user\3471617518\filament"
+
 
 material_folders = [el for el in os.listdir(
     git_main_path) if el.startswith("Material_")]

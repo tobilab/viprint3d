@@ -1,0 +1,23 @@
+{
+    "bottom_solid_infill_flow_ratio": "0.95",
+    "default_acceleration": "5000",
+    "enable_support": "1",
+    "from": "User",
+    "inherits": "0.12mm Fine @BBL X1C",
+    "initial_layer_print_height": "0.12",
+    "name": "PLA Silk BamLab 0.12LH reduced Flow @BBL X1C",
+    "outer_wall_acceleration": "3000",
+    "outer_wall_speed": "40",
+    "print_flow_ratio": "0.95",
+    "print_settings_id": "PLA Silk BamLab 0.12LH reduced Flow @BBL X1C",
+    "seam_gap": "0%",
+    "sparse_infill_density": "8%",
+    "sparse_infill_pattern": "gyroid",
+    "support_base_pattern": "rectilinear-grid",
+    "support_on_build_plate_only": "1",
+    "support_style": "tree_strong",
+    "support_type": "tree(auto)",
+    "top_solid_infill_flow_ratio": "0.95",
+    "version": "1.7.0.18",
+    "wall_sequence": "outer wall/inner wall"
+}
