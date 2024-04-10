@@ -1,0 +1,100 @@
+{
+    "close_fan_the_first_x_layers": [
+        "1"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "eng_plate_temp": [
+        "110"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "110"
+    ],
+    "fan_cooling_layer_time": [
+        "9"
+    ],
+    "fan_max_speed": [
+        "65"
+    ],
+    "fan_min_speed": [
+        "20"
+    ],
+    "filament_cost": [
+        "58.65"
+    ],
+    "filament_density": [
+        "1.18"
+    ],
+    "filament_diameter": [
+        "1.752"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "20"
+    ],
+    "filament_notes": [
+        "Measured diameter: 1,752mm"
+    ],
+    "filament_settings_id": [
+        "CPE HT - Transparent - 0_4 Nozzle x 0_1 LH - Fiberlogy"
+    ],
+    "filament_vendor": [
+        "Fiberlogy"
+    ],
+    "from": "User",
+    "full_fan_speed_layer": [
+        "3"
+    ],
+    "hot_plate_temp": [
+        "110"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "110"
+    ],
+    "inherits": "Generic PETG",
+    "is_custom_defined": "0",
+    "name": "CPE HT - Transparent - 0_4 Nozzle x 0_1 LH - Fiberlogy",
+    "nozzle_temperature": [
+        "280"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "280"
+    ],
+    "nozzle_temperature_range_high": [
+        "280"
+    ],
+    "nozzle_temperature_range_low": [
+        "260"
+    ],
+    "overhang_fan_speed": [
+        "100"
+    ],
+    "overhang_fan_threshold": [
+        "25%"
+    ],
+    "pressure_advance": [
+        "0.063"
+    ],
+    "slow_down_layer_time": [
+        "3"
+    ],
+    "slow_down_min_speed": [
+        "0.5"
+    ],
+    "support_material_interface_fan_speed": [
+        "100"
+    ],
+    "temperature_vitrification": [
+        "110"
+    ],
+    "textured_plate_temp": [
+        "100"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "100"
+    ],
+    "version": "1.8.0.25"
+}
