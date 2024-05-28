@@ -1,9 +1,18 @@
 {
     "additional_cooling_fan_speed": [
-        "100"
+        "30"
+    ],
+    "complete_print_exhaust_fan_speed": [
+        "30"
     ],
     "default_filament_colour": [
         "#505050"
+    ],
+    "during_print_exhaust_fan_speed": [
+        "30"
+    ],
+    "enable_pressure_advance": [
+        "1"
     ],
     "eng_plate_temp": [
         "35"
@@ -13,6 +22,9 @@
     ],
     "fan_cooling_layer_time": [
         "8"
+    ],
+    "fan_min_speed": [
+        "50"
     ],
     "filament_cost": [
         "46.65"
@@ -24,10 +36,13 @@
         "1.04"
     ],
     "filament_max_volumetric_speed": [
-        "8.5"
+        "9.5"
     ],
     "filament_notes": [
         "Flow manuell kalibriert und PA fehlt."
+    ],
+    "filament_retract_lift_enforce": [
+        "Top Only"
     ],
     "filament_retract_when_changing_layer": [
         "0"
@@ -55,16 +70,19 @@
         "230"
     ],
     "overhang_fan_threshold": [
-        "25%"
+        "10%"
     ],
     "pressure_advance": [
-        "0.1"
+        "0.135"
     ],
     "slow_down_layer_time": [
-        "2"
+        "3"
     ],
     "slow_down_min_speed": [
         "0.5"
+    ],
+    "support_material_interface_fan_speed": [
+        "100"
     ],
     "temperature_vitrification": [
         "110"

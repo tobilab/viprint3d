@@ -27,16 +27,16 @@
         "27.99"
     ],
     "filament_diameter": [
-        "1.746"
+        "1.742"
     ],
     "filament_flow_ratio": [
-        "0.987"
+        "1"
     ],
     "filament_max_volumetric_speed": [
         "21"
     ],
     "filament_notes": [
-        "Vollständig kalibriert seit 7.10.2023.\nLetzte Änderung: -"
+        "Spulendurchmesser aktuell: 1.721"
     ],
     "filament_retract_when_changing_layer": [
         "1"
@@ -64,10 +64,10 @@
         "2"
     ],
     "hot_plate_temp": [
-        "60"
+        "75"
     ],
     "hot_plate_temp_initial_layer": [
-        "60"
+        "75"
     ],
     "inherits": "Generic PETG",
     "is_custom_defined": "0",
@@ -103,10 +103,10 @@
         "85"
     ],
     "textured_plate_temp": [
-        "60"
+        "75"
     ],
     "textured_plate_temp_initial_layer": [
-        "60"
+        "75"
     ],
     "version": "1.6.0.2"
 }

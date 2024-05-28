@@ -5,6 +5,9 @@
     "default_filament_colour": [
         "#909090"
     ],
+    "enable_pressure_advance": [
+        "1"
+    ],
     "eng_plate_temp": [
         "50"
     ],
@@ -33,7 +36,10 @@
         "1"
     ],
     "filament_max_volumetric_speed": [
-        "20"
+        "16"
+    ],
+    "filament_retract_when_changing_layer": [
+        "0"
     ],
     "filament_retraction_length": [
         "1"
@@ -64,7 +70,7 @@
         "220"
     ],
     "pressure_advance": [
-        "0.026"
+        "0.016"
     ],
     "slow_down_layer_time": [
         "3"

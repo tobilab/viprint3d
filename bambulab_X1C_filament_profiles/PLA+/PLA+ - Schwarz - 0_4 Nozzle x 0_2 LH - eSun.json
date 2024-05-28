@@ -1,7 +1,4 @@
 {
-    "close_fan_the_first_x_layers": [
-        "4"
-    ],
     "default_filament_colour": [
         "#000000"
     ],
@@ -30,7 +27,10 @@
         "0.989"
     ],
     "filament_max_volumetric_speed": [
-        "20"
+        "16"
+    ],
+    "filament_notes": [
+        "Manuell kalibrierter PA: 0.026\nAuto kalibrierter PA: 0.02"
     ],
     "filament_retraction_length": [
         "1"
@@ -43,6 +43,9 @@
     ],
     "filament_settings_id": [
         "PLA+ - Schwarz - 0_4 Nozzle x 0_2 LH - eSun"
+    ],
+    "filament_vendor": [
+        "eSun"
     ],
     "filament_z_hop": [
         "0.4"
@@ -66,11 +69,17 @@
     "nozzle_temperature_range_low": [
         "210"
     ],
+    "overhang_fan_threshold": [
+        "25%"
+    ],
     "pressure_advance": [
-        "0.026"
+        "0.021"
     ],
     "slow_down_layer_time": [
         "4"
+    ],
+    "slow_down_min_speed": [
+        "0.5"
     ],
     "temperature_vitrification": [
         "53"

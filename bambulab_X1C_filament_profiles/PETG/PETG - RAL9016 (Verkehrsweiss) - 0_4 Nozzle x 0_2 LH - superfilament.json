@@ -1,7 +1,4 @@
 {
-    "additional_cooling_fan_speed": [
-        "70"
-    ],
     "default_filament_colour": [
         "#FFFFFF"
     ],
@@ -24,7 +21,7 @@
         "27.99"
     ],
     "filament_diameter": [
-        "1.739"
+        "1.759"
     ],
     "filament_flow_ratio": [
         "1"
@@ -33,7 +30,7 @@
         "21"
     ],
     "filament_notes": [
-        "Vollständig kalibriert seit 8.10.2023.\nLetzte Änderung: -"
+        "Spulendurchmesser: 1.739"
     ],
     "filament_retract_when_changing_layer": [
         "1"
@@ -97,10 +94,10 @@
         "85"
     ],
     "textured_plate_temp": [
-        "60"
+        "75"
     ],
     "textured_plate_temp_initial_layer": [
-        "60"
+        "75"
     ],
     "version": "1.6.0.2"
 }

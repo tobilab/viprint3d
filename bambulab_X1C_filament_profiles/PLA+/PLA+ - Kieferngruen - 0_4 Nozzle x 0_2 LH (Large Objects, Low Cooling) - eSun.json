@@ -1,0 +1,120 @@
+{
+    "additional_cooling_fan_speed": [
+        "0"
+    ],
+    "close_fan_the_first_x_layers": [
+        "10"
+    ],
+    "complete_print_exhaust_fan_speed": [
+        "50"
+    ],
+    "cool_plate_temp": [
+        "45"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "45"
+    ],
+    "default_filament_colour": [
+        "#008000"
+    ],
+    "during_print_exhaust_fan_speed": [
+        "50"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "eng_plate_temp": [
+        "50"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "50"
+    ],
+    "fan_max_speed": [
+        "50"
+    ],
+    "fan_min_speed": [
+        "30"
+    ],
+    "filament_cost": [
+        "21"
+    ],
+    "filament_density": [
+        "1.23"
+    ],
+    "filament_deretraction_speed": [
+        "0"
+    ],
+    "filament_diameter": [
+        "1.732"
+    ],
+    "filament_flow_ratio": [
+        "0.989"
+    ],
+    "filament_max_volumetric_speed": [
+        "16"
+    ],
+    "filament_notes": [
+        "Filamentdurchmesser gemessen: 1.732"
+    ],
+    "filament_retract_when_changing_layer": [
+        "0"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_retraction_minimum_travel": [
+        "2"
+    ],
+    "filament_retraction_speed": [
+        "40"
+    ],
+    "filament_settings_id": [
+        "PLA+ - Kieferngruen - 0_4 Nozzle x 0_2 LH (Large Objects, Low Cooling) - eSun"
+    ],
+    "filament_vendor": [
+        "eSun"
+    ],
+    "filament_z_hop": [
+        "0.4"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "Generic PLA",
+    "name": "PLA+ - Kieferngruen - 0_4 Nozzle x 0_2 LH (Large Objects, Low Cooling) - eSun",
+    "nozzle_temperature_initial_layer": [
+        "225"
+    ],
+    "nozzle_temperature_range_high": [
+        "230"
+    ],
+    "nozzle_temperature_range_low": [
+        "210"
+    ],
+    "overhang_fan_threshold": [
+        "25%"
+    ],
+    "pressure_advance": [
+        "0.026"
+    ],
+    "slow_down_min_speed": [
+        "0.5"
+    ],
+    "temperature_vitrification": [
+        "53"
+    ],
+    "textured_plate_temp": [
+        "50"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "50"
+    ],
+    "version": "2.0.0.0"
+}

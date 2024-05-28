@@ -1,4 +1,13 @@
 {
+    "close_fan_the_first_x_layers": [
+        "2"
+    ],
+    "cool_plate_temp": [
+        "45"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "45"
+    ],
     "default_filament_colour": [
         "#808080"
     ],
@@ -27,16 +36,22 @@
         "0.93"
     ],
     "filament_max_volumetric_speed": [
-        "20"
+        "16"
+    ],
+    "filament_notes": [
+        "PA Werte:\nManuelle Kalibrierung: 0.033\nAuto Kal 24.4.24: 0.027"
+    ],
+    "filament_retract_when_changing_layer": [
+        "0"
     ],
     "filament_retraction_length": [
-        "0.8"
+        "1"
     ],
     "filament_retraction_minimum_travel": [
         "2"
     ],
     "filament_retraction_speed": [
-        "30"
+        "40"
     ],
     "filament_settings_id": [
         "PLA Matte - Dark Grey - 0_4 Nozzle x 0_2 LH - eSun"
@@ -45,32 +60,29 @@
         "0.4"
     ],
     "filament_z_hop_types": [
-        "Normal Lift"
+        "Spiral Lift"
     ],
     "from": "User",
     "inherits": "Generic PLA",
     "is_custom_defined": "0",
     "name": "PLA Matte - Dark Grey - 0_4 Nozzle x 0_2 LH - eSun",
-    "nozzle_temperature": [
-        "240"
-    ],
     "nozzle_temperature_range_high": [
         "230"
     ],
+    "overhang_fan_threshold": [
+        "25%"
+    ],
     "pressure_advance": [
-        "0.033"
+        "0.03"
+    ],
+    "slow_down_layer_time": [
+        "4"
     ],
     "slow_down_min_speed": [
         "0.5"
     ],
     "temperature_vitrification": [
         "51"
-    ],
-    "textured_plate_temp": [
-        "65"
-    ],
-    "textured_plate_temp_initial_layer": [
-        "65"
     ],
     "version": "1.6.0.2"
 }
