@@ -1,7 +1,4 @@
 {
-    "close_fan_the_first_x_layers": [
-        "3"
-    ],
     "cool_plate_temp": [
         "45"
     ],
@@ -29,9 +26,6 @@
     "filament_cost": [
         "21"
     ],
-    "filament_density": [
-        "1.23"
-    ],
     "filament_deretraction_speed": [
         "0"
     ],
@@ -43,9 +37,6 @@
     ],
     "filament_max_volumetric_speed": [
         "16"
-    ],
-    "filament_notes": [
-        "PAs:\nEigene Kalibrierung: 0.026\nAuto Kal 24.2.24: 0.022"
     ],
     "filament_retract_when_changing_layer": [
         "1"
@@ -60,7 +51,7 @@
         "40"
     ],
     "filament_settings_id": [
-        "PLA Pro - RAL3020 (VerkRot) - 0_4 Nozzle x 0_2 LH - superfilament"
+        "PLA Pro - RAL3020 (VerkRot) - 0_4 Nozzle x 0_2 LH (High Cooling) - superfilament"
     ],
     "filament_vendor": [
         "superfilament"
@@ -80,15 +71,12 @@
     ],
     "inherits": "Generic PLA",
     "is_custom_defined": "0",
-    "name": "PLA Pro - RAL3020 (VerkRot) - 0_4 Nozzle x 0_2 LH - superfilament",
+    "name": "PLA Pro - RAL3020 (VerkRot) - 0_4 Nozzle x 0_2 LH (High Cooling) - superfilament",
     "nozzle_temperature_initial_layer": [
         "225"
     ],
     "nozzle_temperature_range_high": [
         "220"
-    ],
-    "overhang_fan_threshold": [
-        "25%"
     ],
     "pressure_advance": [
         "0.023"
@@ -99,8 +87,14 @@
     "slow_down_min_speed": [
         "0.5"
     ],
+    "support_material_interface_fan_speed": [
+        "100"
+    ],
     "temperature_vitrification": [
         "55"
+    ],
+    "textured_plate_temp": [
+        "65"
     ],
     "textured_plate_temp_initial_layer": [
         "65"

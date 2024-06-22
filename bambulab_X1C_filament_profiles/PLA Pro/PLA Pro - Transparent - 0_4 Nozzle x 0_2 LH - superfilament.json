@@ -9,7 +9,7 @@
         "45"
     ],
     "default_filament_colour": [
-        "#FF0000"
+        "#F0F0F0"
     ],
     "enable_pressure_advance": [
         "1"
@@ -36,7 +36,7 @@
         "0"
     ],
     "filament_diameter": [
-        "1.753"
+        "1.777"
     ],
     "filament_flow_ratio": [
         "1"
@@ -45,7 +45,7 @@
         "16"
     ],
     "filament_notes": [
-        "PAs:\nEigene Kalibrierung: 0.026\nAuto Kal 24.2.24: 0.022"
+        "PAs:\nEigene Kalibrierung: 0.022\nAuto Kal: 0.029"
     ],
     "filament_retract_when_changing_layer": [
         "1"
@@ -60,7 +60,7 @@
         "40"
     ],
     "filament_settings_id": [
-        "PLA Pro - RAL3020 (VerkRot) - 0_4 Nozzle x 0_2 LH - superfilament"
+        "PLA Pro - Transparent - 0_4 Nozzle x 0_2 LH - superfilament"
     ],
     "filament_vendor": [
         "superfilament"
@@ -80,7 +80,7 @@
     ],
     "inherits": "Generic PLA",
     "is_custom_defined": "0",
-    "name": "PLA Pro - RAL3020 (VerkRot) - 0_4 Nozzle x 0_2 LH - superfilament",
+    "name": "PLA Pro - Transparent - 0_4 Nozzle x 0_2 LH - superfilament",
     "nozzle_temperature_initial_layer": [
         "225"
     ],
@@ -91,7 +91,7 @@
         "25%"
     ],
     "pressure_advance": [
-        "0.023"
+        "0.022"
     ],
     "slow_down_layer_time": [
         "3"

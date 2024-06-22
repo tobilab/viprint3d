@@ -1,9 +1,6 @@
 {
-    "additional_cooling_fan_speed": [
-        "85"
-    ],
     "close_fan_the_first_x_layers": [
-        "2"
+        "3"
     ],
     "cool_plate_temp": [
         "45"
@@ -18,9 +15,15 @@
         "1"
     ],
     "eng_plate_temp": [
-        "50"
+        "65"
     ],
     "eng_plate_temp_initial_layer": [
+        "65"
+    ],
+    "fan_cooling_layer_time": [
+        "7"
+    ],
+    "fan_min_speed": [
         "50"
     ],
     "filament_cost": [
@@ -42,10 +45,10 @@
         "16"
     ],
     "filament_notes": [
-        "Filamentdurchmesser gemessen: 1.732"
+        "Filamentdurchmesser gemessen: 1.732\nEinstellung vor aktuellem PA Wert:\nPA manuell kalibriert zu: 0.026 (+ Ergebnis von auto. Kalibr.: 0.027)"
     ],
     "filament_retract_when_changing_layer": [
-        "0"
+        "1"
     ],
     "filament_retraction_length": [
         "1"
@@ -70,10 +73,10 @@
     ],
     "from": "User",
     "hot_plate_temp": [
-        "50"
+        "65"
     ],
     "hot_plate_temp_initial_layer": [
-        "50"
+        "65"
     ],
     "inherits": "Generic PLA",
     "is_custom_defined": "0",
@@ -88,10 +91,10 @@
         "25%"
     ],
     "pressure_advance": [
-        "0.026"
+        "0.022"
     ],
     "slow_down_layer_time": [
-        "4"
+        "3"
     ],
     "slow_down_min_speed": [
         "0.5"
@@ -99,11 +102,8 @@
     "temperature_vitrification": [
         "53"
     ],
-    "textured_plate_temp": [
-        "50"
-    ],
     "textured_plate_temp_initial_layer": [
-        "50"
+        "65"
     ],
     "version": "1.4.1.4"
 }

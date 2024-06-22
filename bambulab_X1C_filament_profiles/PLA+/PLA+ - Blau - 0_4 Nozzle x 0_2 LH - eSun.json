@@ -1,6 +1,6 @@
 {
     "close_fan_the_first_x_layers": [
-        "2"
+        "3"
     ],
     "cool_plate_temp": [
         "45"
@@ -15,10 +15,16 @@
         "1"
     ],
     "eng_plate_temp": [
-        "55"
+        "65"
     ],
     "eng_plate_temp_initial_layer": [
-        "55"
+        "65"
+    ],
+    "fan_cooling_layer_time": [
+        "7"
+    ],
+    "fan_min_speed": [
+        "50"
     ],
     "filament_cost": [
         "21"
@@ -38,8 +44,11 @@
     "filament_max_volumetric_speed": [
         "16"
     ],
+    "filament_notes": [
+        "PAs:\n\nAuto-Kal.: 0.021\nManuell: 0.020"
+    ],
     "filament_retract_when_changing_layer": [
-        "0"
+        "1"
     ],
     "filament_retraction_length": [
         "1"
@@ -63,6 +72,12 @@
         "Spiral Lift"
     ],
     "from": "User",
+    "hot_plate_temp": [
+        "65"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "65"
+    ],
     "inherits": "Generic PLA",
     "is_custom_defined": "0",
     "name": "PLA+ - Blau - 0_4 Nozzle x 0_2 LH - eSun",
@@ -75,17 +90,17 @@
     "overhang_fan_threshold": [
         "25%"
     ],
-    "pressure_advance": [
-        "0.026"
-    ],
     "slow_down_layer_time": [
-        "4"
+        "3"
     ],
     "slow_down_min_speed": [
         "0.5"
     ],
     "temperature_vitrification": [
         "53"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "65"
     ],
     "version": "1.4.1.4"
 }
