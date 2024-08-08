@@ -1,0 +1,82 @@
+{
+    "close_fan_the_first_x_layers": [
+        "10"
+    ],
+    "default_filament_colour": [
+        "#505050"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "eng_plate_temp": [
+        "85"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "85"
+    ],
+    "fan_cooling_layer_time": [
+        "10"
+    ],
+    "fan_max_speed": [
+        "30"
+    ],
+    "filament_diameter": [
+        "1.732"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_retract_when_changing_layer": [
+        "0"
+    ],
+    "filament_retraction_length": [
+        "0.4"
+    ],
+    "filament_retraction_speed": [
+        "40"
+    ],
+    "filament_settings_id": [
+        "PETG_CF - Carbon - 0_4 Nozzle x 0_2 LH (Low Cooling, Large Objects) - SUPER FILAMENT"
+    ],
+    "filament_vendor": [
+        "SUPER FILAMENT"
+    ],
+    "from": "User",
+    "full_fan_speed_layer": [
+        "2"
+    ],
+    "hot_plate_temp": [
+        "85"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "85"
+    ],
+    "inherits": "Generic PETG-CF @BBL X1C",
+    "is_custom_defined": "0",
+    "name": "PETG_CF - Carbon - 0_4 Nozzle x 0_2 LH (Low Cooling, Large Objects) - SUPER FILAMENT",
+    "nozzle_temperature_range_high": [
+        "255"
+    ],
+    "nozzle_temperature_range_low": [
+        "230"
+    ],
+    "pressure_advance": [
+        "0.0481"
+    ],
+    "slow_down_layer_time": [
+        "5"
+    ],
+    "slow_down_min_speed": [
+        "0.5"
+    ],
+    "support_material_interface_fan_speed": [
+        "100"
+    ],
+    "textured_plate_temp": [
+        "85"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "85"
+    ],
+    "version": "1.7.0.18"
+}
