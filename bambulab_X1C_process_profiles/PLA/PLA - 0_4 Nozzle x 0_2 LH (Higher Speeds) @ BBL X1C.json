@@ -7,6 +7,7 @@
     "name": "PLA - 0_4 Nozzle x 0_2 LH (Higher Speeds) @ BBL X1C",
     "print_settings_id": "PLA - 0_4 Nozzle x 0_2 LH (Higher Speeds) @ BBL X1C",
     "role_based_wipe_speed": "0",
+    "scarf_joint_speed": "80",
     "seam_gap": "0%",
     "seam_slope_type": "external",
     "skirt_loops": "1",
