@@ -1,5 +1,6 @@
 {
     "brim_type": "no_brim",
+    "default_acceleration": "5000",
     "from": "User",
     "infill_wall_overlap": "25%",
     "inherits": "0.16mm Optimal @BBL X1C",
@@ -10,6 +11,7 @@
     "layer_height": "0.2",
     "name": "PETG - 0_4 Nozzle x 0_2 LH (Large Objects) @BBL X1C",
     "outer_wall_speed": "50",
+    "overhang_1_4_speed": "40",
     "precise_outer_wall": "1",
     "print_settings_id": "PETG - 0_4 Nozzle x 0_2 LH (Large Objects) @BBL X1C",
     "role_based_wipe_speed": "0",
@@ -18,6 +20,7 @@
     "skirt_loops": "1",
     "sparse_infill_pattern": "gyroid",
     "top_solid_infill_flow_ratio": "0.98",
+    "top_surface_speed": "80",
     "version": "1.8.0.25",
     "wall_generator": "arachne",
     "wall_loops": "3",

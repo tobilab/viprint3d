@@ -1,7 +1,4 @@
 {
-    "additional_cooling_fan_speed": [
-        "70"
-    ],
     "default_filament_colour": [
         "#000000"
     ],
@@ -9,10 +6,10 @@
         "1"
     ],
     "eng_plate_temp": [
-        "60"
+        "80"
     ],
     "eng_plate_temp_initial_layer": [
-        "60"
+        "80"
     ],
     "fan_cooling_layer_time": [
         "10"
@@ -39,7 +36,7 @@
         "1"
     ],
     "filament_retraction_length": [
-        "0.8"
+        "0.9"
     ],
     "filament_retraction_speed": [
         "50"

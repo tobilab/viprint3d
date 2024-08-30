@@ -12,10 +12,10 @@
         "1"
     ],
     "eng_plate_temp": [
-        "60"
+        "80"
     ],
     "eng_plate_temp_initial_layer": [
-        "60"
+        "80"
     ],
     "fan_cooling_layer_time": [
         "10"
@@ -42,10 +42,10 @@
         "1"
     ],
     "filament_retraction_length": [
-        "0.6"
+        "0.9"
     ],
     "filament_retraction_speed": [
-        "40"
+        "50"
     ],
     "filament_settings_id": [
         "PETG - RAL9017 (Schwarz) - 0_4 Nozzle x 0_2 LH (High Cooling) - SUPER FILAMENT"

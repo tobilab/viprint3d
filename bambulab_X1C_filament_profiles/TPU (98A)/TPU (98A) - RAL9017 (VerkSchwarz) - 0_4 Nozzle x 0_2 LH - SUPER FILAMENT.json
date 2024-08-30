@@ -6,7 +6,7 @@
         "30"
     ],
     "default_filament_colour": [
-        "#FF0000"
+        "#000000"
     ],
     "during_print_exhaust_fan_speed": [
         "30"
@@ -33,16 +33,13 @@
         "1.19"
     ],
     "filament_diameter": [
-        "1.694"
+        "1.7112"
     ],
     "filament_flow_ratio": [
         "1.05"
     ],
     "filament_max_volumetric_speed": [
         "3"
-    ],
-    "filament_notes": [
-        "Durchschn. Durchmesser und PA bisheriger Spulen:\n1,694mm / 0.23\n\nSpulendurchmesser aktueller Farben:\n98A VerkWeiss: 1,726\n"
     ],
     "filament_retract_before_wipe": [
         "50%"
@@ -54,7 +51,7 @@
         "40"
     ],
     "filament_settings_id": [
-        "TPU (98A) - RAL3020 (VerkRot) - 0_4 Nozzle x 0_2 LH - SUPER FILAMENT"
+        "TPU (98A) - RAL9017 (VerkSchwarz) - 0_4 Nozzle x 0_2 LH - SUPER FILAMENT"
     ],
     "filament_vendor": [
         "SUPER FILAMENT"
@@ -68,7 +65,7 @@
     "from": "User",
     "inherits": "Bambu TPU 95A @BBL X1C",
     "is_custom_defined": "0",
-    "name": "TPU (98A) - RAL3020 (VerkRot) - 0_4 Nozzle x 0_2 LH - SUPER FILAMENT",
+    "name": "TPU (98A) - RAL9017 (VerkSchwarz) - 0_4 Nozzle x 0_2 LH - SUPER FILAMENT",
     "nozzle_temperature": [
         "224"
     ],
@@ -82,7 +79,7 @@
         "10%"
     ],
     "pressure_advance": [
-        "0.23"
+        "0.135"
     ],
     "slow_down_layer_time": [
         "3"

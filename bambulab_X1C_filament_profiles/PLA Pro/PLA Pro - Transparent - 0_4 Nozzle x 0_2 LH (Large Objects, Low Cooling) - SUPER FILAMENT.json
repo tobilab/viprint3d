@@ -1,115 +1,115 @@
 {
+    "additional_cooling_fan_speed": [
+        "0"
+    ],
     "close_fan_the_first_x_layers": [
         "10"
     ],
     "complete_print_exhaust_fan_speed": [
-        "30"
+        "50"
+    ],
+    "cool_plate_temp": [
+        "45"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "45"
     ],
     "default_filament_colour": [
-        "#000000"
+        "#F0F0F0"
     ],
     "during_print_exhaust_fan_speed": [
-        "30"
+        "50"
     ],
     "enable_pressure_advance": [
         "1"
     ],
     "eng_plate_temp": [
-        "80"
+        "65"
     ],
     "eng_plate_temp_initial_layer": [
-        "80"
-    ],
-    "fan_cooling_layer_time": [
-        "10"
+        "65"
     ],
     "fan_max_speed": [
-        "30"
+        "35"
     ],
     "fan_min_speed": [
-        "5"
+        "30"
     ],
     "filament_cost": [
-        "27.99"
+        "21"
+    ],
+    "filament_density": [
+        "1.23"
+    ],
+    "filament_deretraction_speed": [
+        "0"
     ],
     "filament_diameter": [
-        "1.742"
+        "1.777"
     ],
     "filament_flow_ratio": [
         "1"
     ],
     "filament_max_volumetric_speed": [
-        "21"
+        "16"
+    ],
+    "filament_notes": [
+        "PAs:\nEigene Kalibrierung: 0.022\nAuto Kal: 0.029"
     ],
     "filament_retract_when_changing_layer": [
         "1"
     ],
     "filament_retraction_length": [
-        "0.9"
+        "1"
+    ],
+    "filament_retraction_minimum_travel": [
+        "2"
     ],
     "filament_retraction_speed": [
-        "50"
+        "40"
     ],
     "filament_settings_id": [
-        "PETG - RAL9017 (Schwarz) - 0_4 Nozzle x 0_2 LH (Low Cooling, Large Objects) - SUPER FILAMENT"
+        "PLA Pro - Transparent - 0_4 Nozzle x 0_2 LH (Large Objects, Low Cooling) - SUPER FILAMENT"
     ],
     "filament_vendor": [
         "SUPER FILAMENT"
     ],
     "filament_z_hop": [
-        "0.6"
+        "0.4"
     ],
     "filament_z_hop_types": [
         "Spiral Lift"
     ],
     "from": "User",
-    "full_fan_speed_layer": [
-        "2"
-    ],
     "hot_plate_temp": [
-        "75"
+        "65"
     ],
     "hot_plate_temp_initial_layer": [
-        "75"
+        "65"
     ],
-    "inherits": "Generic PETG",
+    "inherits": "Generic PLA",
     "is_custom_defined": "0",
-    "name": "PETG - RAL9017 (Schwarz) - 0_4 Nozzle x 0_2 LH (Low Cooling, Large Objects) - SUPER FILAMENT",
-    "nozzle_temperature": [
-        "240"
-    ],
+    "name": "PLA Pro - Transparent - 0_4 Nozzle x 0_2 LH (Large Objects, Low Cooling) - SUPER FILAMENT",
     "nozzle_temperature_initial_layer": [
-        "240"
+        "225"
     ],
     "nozzle_temperature_range_high": [
-        "255"
+        "220"
     ],
-    "nozzle_temperature_range_low": [
-        "230"
-    ],
-    "overhang_fan_speed": [
-        "100"
+    "overhang_fan_threshold": [
+        "25%"
     ],
     "pressure_advance": [
-        "0.03"
-    ],
-    "slow_down_layer_time": [
-        "5"
+        "0.022"
     ],
     "slow_down_min_speed": [
         "0.5"
     ],
-    "support_material_interface_fan_speed": [
-        "90"
-    ],
     "temperature_vitrification": [
-        "85"
-    ],
-    "textured_plate_temp": [
-        "75"
+        "55"
     ],
     "textured_plate_temp_initial_layer": [
-        "75"
+        "65"
     ],
-    "version": "1.6.0.2"
+    "version": "1.4.1.4"
 }
