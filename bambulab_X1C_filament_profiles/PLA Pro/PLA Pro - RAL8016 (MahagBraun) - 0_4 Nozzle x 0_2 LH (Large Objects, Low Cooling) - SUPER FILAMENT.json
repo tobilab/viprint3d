@@ -45,7 +45,7 @@
         "1.743"
     ],
     "filament_flow_ratio": [
-        "1"
+        "0.979"
     ],
     "filament_max_volumetric_speed": [
         "16"
@@ -84,17 +84,11 @@
     "inherits": "Generic PLA",
     "is_custom_defined": "0",
     "name": "PLA Pro - RAL8016 (MahagBraun) - 0_4 Nozzle x 0_2 LH (Large Objects, Low Cooling) - SUPER FILAMENT",
-    "nozzle_temperature_initial_layer": [
-        "225"
-    ],
     "nozzle_temperature_range_high": [
         "220"
     ],
     "overhang_fan_threshold": [
         "25%"
-    ],
-    "pressure_advance": [
-        "0.022"
     ],
     "slow_down_min_speed": [
         "0.5"

@@ -24,7 +24,7 @@
         "7"
     ],
     "fan_min_speed": [
-        "50"
+        "75"
     ],
     "filament_cost": [
         "21"
@@ -36,13 +36,10 @@
         "1.744"
     ],
     "filament_flow_ratio": [
-        "1"
+        "1.005"
     ],
     "filament_max_volumetric_speed": [
         "16"
-    ],
-    "filament_notes": [
-        "Bisherige Kalibrierungsergebnisse: Durchmesser / Flow / PA\n\n1.744 / 1 / 0.016"
     ],
     "filament_retract_when_changing_layer": [
         "1"
@@ -78,9 +75,6 @@
     "inherits": "Generic PLA",
     "is_custom_defined": "0",
     "name": "PLA Pro - RAL5018 (Tuerkisblau) - 0_4 Nozzle x 0_2 LH - SUPER FILAMENT",
-    "nozzle_temperature_initial_layer": [
-        "225"
-    ],
     "nozzle_temperature_range_high": [
         "220"
     ],
@@ -88,10 +82,7 @@
         "25%"
     ],
     "pressure_advance": [
-        "0.016"
-    ],
-    "slow_down_layer_time": [
-        "3"
+        "0.021"
     ],
     "slow_down_min_speed": [
         "0.5"

@@ -1,0 +1,34 @@
+{
+    "default_filament_colour": [
+        "#EBDC23"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "PLA - BlackPearl - 0_4 Nozzle x 0_2 LH - VIPrint3D_Orig"
+    ],
+    "filament_vendor": [
+        "VIPrint3D"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "Generic PLA",
+    "is_custom_defined": "0",
+    "name": "PLA - BlackPearl - 0_4 Nozzle x 0_2 LH - VIPrint3D_Orig",
+    "textured_plate_temp": [
+        "60"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "60"
+    ],
+    "version": "1.9.0.14"
+}

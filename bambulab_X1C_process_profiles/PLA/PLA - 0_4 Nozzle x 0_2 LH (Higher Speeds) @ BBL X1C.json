@@ -6,15 +6,14 @@
     "is_custom_defined": "0",
     "name": "PLA - 0_4 Nozzle x 0_2 LH (Higher Speeds) @ BBL X1C",
     "print_settings_id": "PLA - 0_4 Nozzle x 0_2 LH (Higher Speeds) @ BBL X1C",
-    "role_based_wipe_speed": "0",
     "scarf_joint_speed": "80",
     "seam_gap": "0%",
-    "seam_slope_type": "external",
     "skirt_loops": "1",
     "sparse_infill_pattern": "gyroid",
     "top_solid_infill_flow_ratio": "0.98",
     "version": "1.8.0.25",
     "wall_generator": "arachne",
     "wall_sequence": "outer wall/inner wall",
+    "wipe_on_loops": "1",
     "wipe_speed": "0"
 }

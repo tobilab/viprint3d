@@ -84,9 +84,6 @@
     "inherits": "Generic PLA",
     "is_custom_defined": "0",
     "name": "PLA Pro - RAL9007 (GrauAlum) - 0_4 Nozzle x 0_2 LH (Large Objects, Low Cooling) - SUPER FILAMENT",
-    "nozzle_temperature_initial_layer": [
-        "225"
-    ],
     "nozzle_temperature_range_high": [
         "220"
     ],

@@ -24,7 +24,7 @@
         "7"
     ],
     "fan_min_speed": [
-        "50"
+        "75"
     ],
     "filament_cost": [
         "21"
@@ -40,9 +40,6 @@
     ],
     "filament_max_volumetric_speed": [
         "16"
-    ],
-    "filament_notes": [
-        "Bisherige Kalibrierungsergebnisse: Durchmesser / Flow / PA\n\n1.722 / 1 / 0.014"
     ],
     "filament_retract_when_changing_layer": [
         "1"
@@ -78,9 +75,6 @@
     "inherits": "Generic PLA",
     "is_custom_defined": "0",
     "name": "PLA Pro - Leuchtorange - 0_4 Nozzle x 0_2 LH - SUPER FILAMENT",
-    "nozzle_temperature_initial_layer": [
-        "225"
-    ],
     "nozzle_temperature_range_high": [
         "220"
     ],
@@ -88,10 +82,7 @@
         "25%"
     ],
     "pressure_advance": [
-        "0.014"
-    ],
-    "slow_down_layer_time": [
-        "3"
+        "0.022"
     ],
     "slow_down_min_speed": [
         "0.5"

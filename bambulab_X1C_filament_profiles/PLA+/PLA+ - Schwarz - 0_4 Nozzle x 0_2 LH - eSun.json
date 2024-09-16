@@ -6,10 +6,16 @@
         "1"
     ],
     "eng_plate_temp": [
-        "50"
+        "65"
     ],
     "eng_plate_temp_initial_layer": [
-        "50"
+        "65"
+    ],
+    "fan_cooling_layer_time": [
+        "7"
+    ],
+    "fan_min_speed": [
+        "75"
     ],
     "filament_cost": [
         "21"
@@ -55,10 +61,10 @@
     ],
     "from": "User",
     "hot_plate_temp": [
-        "50"
+        "65"
     ],
     "hot_plate_temp_initial_layer": [
-        "50"
+        "65"
     ],
     "inherits": "Generic PLA",
     "is_custom_defined": "0",
@@ -75,9 +81,6 @@
     "pressure_advance": [
         "0.021"
     ],
-    "slow_down_layer_time": [
-        "4"
-    ],
     "slow_down_min_speed": [
         "0.5"
     ],
@@ -85,10 +88,10 @@
         "53"
     ],
     "textured_plate_temp": [
-        "50"
+        "65"
     ],
     "textured_plate_temp_initial_layer": [
-        "50"
+        "65"
     ],
     "version": "1.4.1.4"
 }

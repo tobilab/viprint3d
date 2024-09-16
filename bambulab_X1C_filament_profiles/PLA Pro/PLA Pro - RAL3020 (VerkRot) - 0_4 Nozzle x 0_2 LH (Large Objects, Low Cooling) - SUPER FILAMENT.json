@@ -38,6 +38,9 @@
     "filament_cost": [
         "21"
     ],
+    "filament_density": [
+        "1.23"
+    ],
     "filament_deretraction_speed": [
         "0"
     ],
@@ -84,9 +87,6 @@
     "inherits": "Generic PLA",
     "is_custom_defined": "0",
     "name": "PLA Pro - RAL3020 (VerkRot) - 0_4 Nozzle x 0_2 LH (Large Objects, Low Cooling) - SUPER FILAMENT",
-    "nozzle_temperature_initial_layer": [
-        "225"
-    ],
     "nozzle_temperature_range_high": [
         "220"
     ],
@@ -94,7 +94,7 @@
         "25%"
     ],
     "pressure_advance": [
-        "0.023"
+        "0.022"
     ],
     "slow_down_min_speed": [
         "0.5"
