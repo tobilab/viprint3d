@@ -15,10 +15,13 @@
         "45"
     ],
     "default_filament_colour": [
-        "#FFFFFF"
+        "#000000"
     ],
     "during_print_exhaust_fan_speed": [
         "50"
+    ],
+    "enable_pressure_advance": [
+        "1"
     ],
     "eng_plate_temp": [
         "65"
@@ -38,8 +41,11 @@
     "filament_deretraction_speed": [
         "0"
     ],
+    "filament_diameter": [
+        "1.778"
+    ],
     "filament_flow_ratio": [
-        "1"
+        "1.015"
     ],
     "filament_max_volumetric_speed": [
         "16"
@@ -57,7 +63,7 @@
         "40"
     ],
     "filament_settings_id": [
-        "PLA Pro - Generic - 0_4 Nozzle x 0_2 LH (Large Objects, Low Cooling) - SUPER FILAMENT"
+        "PLA Pro Matt - RAL9017 (VSchwarz) - 0_4 Nozzle x 0_2 LH (Large Objects, Low Cooling) - SUPER FILAMENT"
     ],
     "filament_vendor": [
         "SUPER FILAMENT"
@@ -77,7 +83,7 @@
     ],
     "inherits": "Generic PLA",
     "is_custom_defined": "0",
-    "name": "PLA Pro - Generic - 0_4 Nozzle x 0_2 LH (Large Objects, Low Cooling) - SUPER FILAMENT",
+    "name": "PLA Pro Matt - RAL9017 (VSchwarz) - 0_4 Nozzle x 0_2 LH (Large Objects, Low Cooling) - SUPER FILAMENT",
     "nozzle_temperature_range_high": [
         "220"
     ],
@@ -85,7 +91,7 @@
         "25%"
     ],
     "pressure_advance": [
-        "0.023"
+        "0.022"
     ],
     "slow_down_min_speed": [
         "0.5"
