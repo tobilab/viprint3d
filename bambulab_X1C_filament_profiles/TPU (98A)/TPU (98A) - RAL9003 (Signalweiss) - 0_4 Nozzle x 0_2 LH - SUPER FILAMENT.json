@@ -1,15 +1,12 @@
 {
-    "additional_cooling_fan_speed": [
-        "30"
-    ],
     "complete_print_exhaust_fan_speed": [
-        "30"
+        "50"
     ],
     "default_filament_colour": [
         "#FFFFFF"
     ],
     "during_print_exhaust_fan_speed": [
-        "30"
+        "50"
     ],
     "enable_pressure_advance": [
         "1"
@@ -19,12 +16,6 @@
     ],
     "eng_plate_temp_initial_layer": [
         "35"
-    ],
-    "fan_cooling_layer_time": [
-        "8"
-    ],
-    "fan_min_speed": [
-        "50"
     ],
     "filament_cost": [
         "40"
@@ -39,7 +30,7 @@
         "1.05"
     ],
     "filament_max_volumetric_speed": [
-        "2.92"
+        "3"
     ],
     "filament_notes": [
         "\n"
@@ -70,10 +61,10 @@
     "is_custom_defined": "0",
     "name": "TPU (98A) - RAL9003 (Signalweiss) - 0_4 Nozzle x 0_2 LH - SUPER FILAMENT",
     "nozzle_temperature": [
-        "222"
+        "237"
     ],
     "nozzle_temperature_initial_layer": [
-        "222"
+        "237"
     ],
     "nozzle_temperature_range_low": [
         "230"

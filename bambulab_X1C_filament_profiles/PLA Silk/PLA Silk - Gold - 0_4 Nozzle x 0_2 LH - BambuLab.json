@@ -1,9 +1,33 @@
 {
+    "close_fan_the_first_x_layers": [
+        "3"
+    ],
+    "cool_plate_temp": [
+        "45"
+    ],
+    "cool_plate_temp_initial_layer": [
+        "45"
+    ],
     "default_filament_colour": [
         "#E7C505"
     ],
     "enable_pressure_advance": [
         "1"
+    ],
+    "eng_plate_temp": [
+        "65"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "65"
+    ],
+    "fan_cooling_layer_time": [
+        "7"
+    ],
+    "fan_min_speed": [
+        "75"
+    ],
+    "filament_deretraction_speed": [
+        "0"
     ],
     "filament_diameter": [
         "1.799"
@@ -11,18 +35,54 @@
     "filament_flow_ratio": [
         "1"
     ],
+    "filament_retract_when_changing_layer": [
+        "1"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_retraction_minimum_travel": [
+        "2"
+    ],
+    "filament_retraction_speed": [
+        "40"
+    ],
     "filament_settings_id": [
         "PLA Silk - Gold - 0_4 Nozzle x 0_2 LH - BambuLab"
     ],
+    "filament_z_hop": [
+        "0.4"
+    ],
+    "filament_z_hop_types": [
+        "Spiral Lift"
+    ],
     "from": "User",
+    "hot_plate_temp": [
+        "65"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "65"
+    ],
     "inherits": "Bambu PLA Silk @BBL X1C",
     "is_custom_defined": "0",
     "name": "PLA Silk - Gold - 0_4 Nozzle x 0_2 LH - BambuLab",
+    "overhang_fan_threshold": [
+        "25%"
+    ],
     "pressure_advance": [
         "0.0202"
     ],
+    "slow_down_layer_time": [
+        "8"
+    ],
     "slow_down_min_speed": [
         "0.5"
+    ],
+    "textured_plate_temp": [
+        "65"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "65"
     ],
     "version": "1.7.0.18"
 }

@@ -9,34 +9,40 @@
         "40"
     ],
     "default_filament_colour": [
-        "#FFFFFF"
+        "#000000"
+    ],
+    "enable_pressure_advance": [
+        "1"
     ],
     "eng_plate_temp": [
-        "65"
+        "75"
     ],
     "eng_plate_temp_initial_layer": [
-        "65"
+        "75"
     ],
     "fan_cooling_layer_time": [
         "7"
-    ],
-    "fan_min_speed": [
-        "75"
     ],
     "filament_cost": [
         "21"
     ],
     "filament_density": [
-        "1.23"
+        "1.1"
     ],
     "filament_deretraction_speed": [
         "0"
+    ],
+    "filament_diameter": [
+        "1.723"
     ],
     "filament_flow_ratio": [
         "1"
     ],
     "filament_max_volumetric_speed": [
         "16"
+    ],
+    "filament_notes": [
+        "Recommendations from https://all3dp.com/2/pvb-filament-simply-explained/\nPlate: 75°C on smooth PEI or satin sheet - not on Textured PEI\nLayer height: 0.12 or 0.16 with 0.4 Nozzle\n\nRecommendations from data sheet:\nDry settings: 60°C for 12h\nBed temp: 25 - 70°C\nSpeed: 40mm/s – 60mm/s\nLayer height: 0.1\nInfill: 20%\nNumber of shells: 3\nTop/Bottom Layers: 4"
     ],
     "filament_retract_when_changing_layer": [
         "1"
@@ -51,10 +57,10 @@
         "40"
     ],
     "filament_settings_id": [
-        "PLA Pro - Generic - 0_4 Nozzle x 0_2 LH - SUPER FILAMENT"
+        "PVB (Fibersmooth) - Schwarz - 0_4 Nozzle x 0_12 LH - Polymaker"
     ],
     "filament_vendor": [
-        "SUPER FILAMENT"
+        "Polymaker"
     ],
     "filament_z_hop": [
         "0.4"
@@ -64,14 +70,20 @@
     ],
     "from": "User",
     "hot_plate_temp": [
-        "65"
+        "75"
     ],
     "hot_plate_temp_initial_layer": [
-        "65"
+        "75"
     ],
     "inherits": "Generic PLA",
     "is_custom_defined": "0",
-    "name": "PLA Pro - Generic - 0_4 Nozzle x 0_2 LH - SUPER FILAMENT",
+    "name": "PVB (Fibersmooth) - Schwarz - 0_4 Nozzle x 0_12 LH - Polymaker",
+    "nozzle_temperature": [
+        "222"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "222"
+    ],
     "nozzle_temperature_range_high": [
         "220"
     ],
@@ -79,22 +91,22 @@
         "25%"
     ],
     "pressure_advance": [
-        "0.023"
+        "0.026"
     ],
     "slow_down_layer_time": [
-        "3"
+        "4"
     ],
     "slow_down_min_speed": [
         "0.5"
     ],
     "temperature_vitrification": [
-        "55"
+        "70"
     ],
     "textured_plate_temp": [
-        "65"
+        "75"
     ],
     "textured_plate_temp_initial_layer": [
-        "65"
+        "75"
     ],
     "version": "1.4.1.4"
 }
