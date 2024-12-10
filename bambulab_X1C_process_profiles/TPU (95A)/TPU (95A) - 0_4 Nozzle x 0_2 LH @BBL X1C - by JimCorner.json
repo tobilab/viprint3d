@@ -8,7 +8,6 @@
     "inherits": "0.20mm Standard @BBL X1C",
     "initial_layer_infill_speed": "70",
     "inner_wall_acceleration": "2000",
-    "is_custom_defined": "0",
     "name": "TPU (95A) - 0_4 Nozzle x 0_2 LH @BBL X1C - by JimCorner",
     "outer_wall_acceleration": "2000",
     "overhang_4_4_speed": "30",

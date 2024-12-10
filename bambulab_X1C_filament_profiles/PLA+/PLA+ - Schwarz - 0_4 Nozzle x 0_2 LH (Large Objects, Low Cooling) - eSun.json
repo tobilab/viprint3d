@@ -88,7 +88,6 @@
         "60"
     ],
     "inherits": "Generic PLA",
-    "is_custom_defined": "0",
     "name": "PLA+ - Schwarz - 0_4 Nozzle x 0_2 LH (Large Objects, Low Cooling) - eSun",
     "nozzle_temperature_initial_layer": [
         "225"

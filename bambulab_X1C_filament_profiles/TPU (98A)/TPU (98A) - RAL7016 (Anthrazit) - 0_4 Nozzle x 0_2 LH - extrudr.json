@@ -58,7 +58,6 @@
     ],
     "from": "User",
     "inherits": "Bambu TPU 95A @BBL X1C",
-    "is_custom_defined": "0",
     "name": "TPU (98A) - RAL7016 (Anthrazit) - 0_4 Nozzle x 0_2 LH - extrudr",
     "nozzle_temperature": [
         "237"

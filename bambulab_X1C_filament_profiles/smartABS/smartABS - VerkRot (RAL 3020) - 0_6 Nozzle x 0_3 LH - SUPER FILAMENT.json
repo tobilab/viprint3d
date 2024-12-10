@@ -58,7 +58,6 @@
         "100"
     ],
     "inherits": "Generic ABS",
-    "is_custom_defined": "0",
     "name": "smartABS - VerkRot (RAL 3020) - 0_6 Nozzle x 0_3 LH - SUPER FILAMENT",
     "nozzle_temperature": [
         "260"

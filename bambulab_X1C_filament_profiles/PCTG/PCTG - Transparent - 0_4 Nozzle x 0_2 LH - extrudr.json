@@ -64,7 +64,6 @@
         "3"
     ],
     "inherits": "Generic PETG",
-    "is_custom_defined": "0",
     "name": "PCTG - Transparent - 0_4 Nozzle x 0_2 LH - extrudr",
     "nozzle_temperature": [
         "280"

@@ -10,7 +10,6 @@
     "inner_wall_acceleration": "5000",
     "ironing_speed": "50",
     "ironing_type": "topmost",
-    "is_custom_defined": "0",
     "layer_height": "0.18",
     "name": "ABS (Default) - 0_6 Nozzle x 0_18 LH @BBL X1C",
     "outer_wall_speed": "50",

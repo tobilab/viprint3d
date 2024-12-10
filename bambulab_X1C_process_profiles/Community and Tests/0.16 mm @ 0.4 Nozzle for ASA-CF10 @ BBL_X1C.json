@@ -8,7 +8,6 @@
     "infill_wall_overlap": "20%",
     "inherits": "0.16mm High Quality @BBL X1C",
     "inner_wall_speed": "300",
-    "is_custom_defined": "0",
     "name": "0.16 mm @ 0.4 Nozzle for ASA-CF10 @ BBL_X1C",
     "outer_wall_acceleration": "5000",
     "outer_wall_speed": "200",

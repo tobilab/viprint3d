@@ -58,7 +58,6 @@
         "100"
     ],
     "inherits": "Generic ABS",
-    "is_custom_defined": "0",
     "name": "ABS+ - Schwarz - 0_6 Nozzle x 0_3 LH - eSun",
     "nozzle_temperature": [
         "260"

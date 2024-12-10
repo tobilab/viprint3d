@@ -55,7 +55,6 @@
         "110"
     ],
     "inherits": "Generic PETG",
-    "is_custom_defined": "0",
     "name": "CPE HT - Transparent - 0_4 Nozzle x 0_1 LH - Fiberlogy",
     "nozzle_temperature": [
         "280"

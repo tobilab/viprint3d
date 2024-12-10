@@ -82,7 +82,6 @@
         "65"
     ],
     "inherits": "Generic PLA",
-    "is_custom_defined": "0",
     "name": "PLA Pro Matt - RAL9017 (VSchwarz) - 0_4 Nozzle x 0_2 LH (Large Objects, Low Cooling) - SUPER FILAMENT",
     "nozzle_temperature_range_high": [
         "220"

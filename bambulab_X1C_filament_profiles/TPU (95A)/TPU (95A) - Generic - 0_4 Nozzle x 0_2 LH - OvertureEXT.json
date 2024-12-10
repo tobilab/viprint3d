@@ -31,7 +31,6 @@
     ],
     "from": "User",
     "inherits": "Bambu TPU 95A HF @BBL P1S",
-    "is_custom_defined": "0",
     "name": "TPU (95A) - Generic - 0_4 Nozzle x 0_2 LH - OvertureEXT",
     "nozzle_temperature": [
         "220"

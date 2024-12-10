@@ -67,7 +67,6 @@
         "65"
     ],
     "inherits": "Generic PLA",
-    "is_custom_defined": "0",
     "name": "PLA eMarble - Natural - 0_4 Nozzle x 0_2 LH - eSun",
     "nozzle_temperature": [
         "230"

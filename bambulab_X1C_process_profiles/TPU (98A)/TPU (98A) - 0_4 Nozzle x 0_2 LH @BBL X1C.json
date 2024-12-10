@@ -13,7 +13,6 @@
     "initial_layer_jerk": "7.8",
     "inner_wall_acceleration": "1100",
     "inner_wall_jerk": "7.8",
-    "is_custom_defined": "0",
     "name": "TPU (98A) - 0_4 Nozzle x 0_2 LH @BBL X1C",
     "outer_wall_acceleration": "1000",
     "outer_wall_jerk": "7.8",

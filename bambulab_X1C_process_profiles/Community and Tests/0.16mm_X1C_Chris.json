@@ -6,7 +6,6 @@
     "from": "User",
     "inherits": "0.16mm High Quality @BBL X1C",
     "inner_wall_speed": "300",
-    "is_custom_defined": "0",
     "name": "0.16mm_X1C_Chris",
     "outer_wall_acceleration": "5000",
     "outer_wall_speed": "200",

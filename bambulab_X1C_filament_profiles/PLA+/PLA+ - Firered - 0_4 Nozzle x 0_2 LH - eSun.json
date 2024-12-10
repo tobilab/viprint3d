@@ -67,7 +67,6 @@
     ],
     "from": "User",
     "inherits": "Generic PLA",
-    "is_custom_defined": "0",
     "name": "PLA+ - Firered - 0_4 Nozzle x 0_2 LH - eSun",
     "nozzle_temperature_range_high": [
         "230"

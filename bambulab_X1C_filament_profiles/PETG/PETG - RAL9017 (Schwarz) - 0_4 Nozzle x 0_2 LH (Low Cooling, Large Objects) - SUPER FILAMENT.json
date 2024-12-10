@@ -73,7 +73,6 @@
         "75"
     ],
     "inherits": "Generic PETG",
-    "is_custom_defined": "0",
     "name": "PETG - RAL9017 (Schwarz) - 0_4 Nozzle x 0_2 LH (Low Cooling, Large Objects) - SUPER FILAMENT",
     "nozzle_temperature": [
         "240"

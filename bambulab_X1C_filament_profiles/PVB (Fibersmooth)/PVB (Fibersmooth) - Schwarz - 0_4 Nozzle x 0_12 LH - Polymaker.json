@@ -76,7 +76,6 @@
         "75"
     ],
     "inherits": "Generic PLA",
-    "is_custom_defined": "0",
     "name": "PVB (Fibersmooth) - Schwarz - 0_4 Nozzle x 0_12 LH - Polymaker",
     "nozzle_temperature": [
         "235"

@@ -52,7 +52,6 @@
         "85"
     ],
     "inherits": "Generic PETG-CF @BBL X1C",
-    "is_custom_defined": "0",
     "name": "PETG_CF - Carbon - 0_4 Nozzle x 0_2 LH (Low Cooling, Large Objects) - SUPER FILAMENT",
     "nozzle_temperature_range_high": [
         "255"

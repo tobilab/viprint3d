@@ -64,7 +64,6 @@
         "65"
     ],
     "inherits": "Bambu PLA Silk @BBL X1C",
-    "is_custom_defined": "0",
     "name": "PLA Silk - Gold - 0_4 Nozzle x 0_2 LH - BambuLab",
     "overhang_fan_threshold": [
         "25%"

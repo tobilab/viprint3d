@@ -3,7 +3,6 @@
     "from": "User",
     "infill_wall_overlap": "25%",
     "inherits": "0.20mm Standard @BBL X1C",
-    "is_custom_defined": "0",
     "name": "PLA - 0_4 Nozzle x 0_2 LH (Higher Speeds) @ BBL X1C",
     "print_settings_id": "PLA - 0_4 Nozzle x 0_2 LH (Higher Speeds) @ BBL X1C",
     "scarf_joint_speed": "30%",

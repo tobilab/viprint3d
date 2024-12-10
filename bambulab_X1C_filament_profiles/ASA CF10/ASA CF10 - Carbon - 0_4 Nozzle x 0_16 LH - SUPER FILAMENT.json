@@ -46,7 +46,6 @@
         "95"
     ],
     "inherits": "Generic ASA",
-    "is_custom_defined": "0",
     "name": "ASA CF10 - Carbon - 0_4 Nozzle x 0_16 LH - SUPER FILAMENT",
     "nozzle_temperature_range_high": [
         "260"

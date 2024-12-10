@@ -70,7 +70,6 @@
         "65"
     ],
     "inherits": "Generic PLA",
-    "is_custom_defined": "0",
     "name": "PLA Pro - Generic - 0_4 Nozzle x 0_2 LH - SUPER FILAMENT",
     "nozzle_temperature_range_high": [
         "220"

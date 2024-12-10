@@ -6,7 +6,6 @@
     "inherits": "0.16mm Optimal @BBL X1C",
     "initial_layer_acceleration": "1000",
     "internal_solid_infill_line_width": "0.5",
-    "is_custom_defined": "0",
     "max_travel_detour_distance": "200%",
     "name": "TPU (95A) - 0_4 Nozzle x 0_16 LH @BBL X1C - by AdamL",
     "overhang_3_4_speed": "15",
