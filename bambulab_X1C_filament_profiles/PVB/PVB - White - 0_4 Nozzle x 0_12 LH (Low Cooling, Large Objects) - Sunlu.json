@@ -1,15 +1,24 @@
 {
+    "additional_cooling_fan_speed": [
+        "0"
+    ],
     "close_fan_the_first_x_layers": [
-        "3"
+        "10"
+    ],
+    "complete_print_exhaust_fan_speed": [
+        "50"
     ],
     "cool_plate_temp": [
-        "40"
+        "45"
     ],
     "cool_plate_temp_initial_layer": [
-        "40"
+        "45"
     ],
     "default_filament_colour": [
         "#FFFFFF"
+    ],
+    "during_print_exhaust_fan_speed": [
+        "50"
     ],
     "enable_pressure_advance": [
         "1"
@@ -22,6 +31,12 @@
     ],
     "fan_cooling_layer_time": [
         "7"
+    ],
+    "fan_max_speed": [
+        "70"
+    ],
+    "fan_min_speed": [
+        "30"
     ],
     "filament_cost": [
         "38"
@@ -57,7 +72,7 @@
         "40"
     ],
     "filament_settings_id": [
-        "PVB - White - 0_4 Nozzle x 0_12 LH - Sunlu"
+        "PVB - White - 0_4 Nozzle x 0_12 LH (Low Cooling, Large Objects) - Sunlu"
     ],
     "filament_vendor": [
         "Sunlu"
@@ -69,6 +84,9 @@
         "Spiral Lift"
     ],
     "from": "User",
+    "full_fan_speed_layer": [
+        "3"
+    ],
     "hot_plate_temp": [
         "75"
     ],
@@ -76,7 +94,7 @@
         "75"
     ],
     "inherits": "Generic PLA",
-    "name": "PVB - White - 0_4 Nozzle x 0_12 LH - Sunlu",
+    "name": "PVB - White - 0_4 Nozzle x 0_12 LH (Low Cooling, Large Objects) - Sunlu",
     "nozzle_temperature": [
         "210"
     ],
@@ -85,6 +103,9 @@
     ],
     "nozzle_temperature_range_high": [
         "220"
+    ],
+    "overhang_fan_speed": [
+        "70"
     ],
     "overhang_fan_threshold": [
         "25%"
@@ -96,7 +117,7 @@
         "0.028"
     ],
     "slow_down_layer_time": [
-        "4"
+        "2"
     ],
     "slow_down_min_speed": [
         "0.5"
@@ -110,5 +131,5 @@
     "textured_plate_temp_initial_layer": [
         "75"
     ],
-    "version": "1.4.1.4"
+    "version": "2.2.0.0"
 }

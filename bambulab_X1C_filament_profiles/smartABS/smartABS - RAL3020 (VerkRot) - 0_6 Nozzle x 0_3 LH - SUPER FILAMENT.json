@@ -1,0 +1,87 @@
+{
+    "close_fan_the_first_x_layers": [
+        "2"
+    ],
+    "default_filament_colour": [
+        "#FF0000"
+    ],
+    "during_print_exhaust_fan_speed": [
+        "60"
+    ],
+    "enable_pressure_advance": [
+        "1"
+    ],
+    "eng_plate_temp": [
+        "100"
+    ],
+    "eng_plate_temp_initial_layer": [
+        "100"
+    ],
+    "fan_max_speed": [
+        "30"
+    ],
+    "filament_cost": [
+        "23"
+    ],
+    "filament_density": [
+        "1.05"
+    ],
+    "filament_diameter": [
+        "1.739"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_max_volumetric_speed": [
+        "35"
+    ],
+    "filament_notes": [
+        "Recommended settings of the manufacturer:\nprint speeds general: 40 - 100mm/s\nFan: Up to 100%"
+    ],
+    "filament_retract_when_changing_layer": [
+        "1"
+    ],
+    "filament_retraction_length": [
+        "0.8"
+    ],
+    "filament_settings_id": [
+        "smartABS - RAL3020 (VerkRot) - 0_6 Nozzle x 0_3 LH - SUPER FILAMENT"
+    ],
+    "filament_vendor": [
+        "SUPER FILAMENT"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "100"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "100"
+    ],
+    "inherits": "Generic ABS",
+    "name": "smartABS - RAL3020 (VerkRot) - 0_6 Nozzle x 0_3 LH - SUPER FILAMENT",
+    "nozzle_temperature": [
+        "260"
+    ],
+    "nozzle_temperature_range_high": [
+        "255"
+    ],
+    "nozzle_temperature_range_low": [
+        "230"
+    ],
+    "pressure_advance": [
+        "0.014"
+    ],
+    "slow_down_min_speed": [
+        "0.5"
+    ],
+    "temperature_vitrification": [
+        "85"
+    ],
+    "textured_plate_temp": [
+        "75"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "75"
+    ],
+    "version": "1.8.0.25"
+}
