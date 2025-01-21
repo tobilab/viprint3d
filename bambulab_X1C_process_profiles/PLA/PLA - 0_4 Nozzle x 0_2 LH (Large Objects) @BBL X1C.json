@@ -1,4 +1,5 @@
 {
+    "bottom_solid_infill_flow_ratio": "1.05",
     "from": "User",
     "infill_wall_overlap": "25%",
     "inherits": "0.16mm High Quality @BBL X1C",

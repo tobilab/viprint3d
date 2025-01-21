@@ -21,6 +21,7 @@
     "prime_tower_width": "20",
     "prime_volume": "6",
     "print_settings_id": "PLA - 0_4 Nozzle x 0_2 LH (Default) @ BBL X1C",
+    "role_based_wipe_speed": "0",
     "scarf_joint_speed": "30%",
     "seam_gap": "40%",
     "seam_slope_type": "external",
@@ -33,5 +34,6 @@
     "top_solid_infill_flow_ratio": "0.95",
     "top_surface_jerk": "8",
     "version": "1.6.0.2",
-    "wall_generator": "arachne"
+    "wall_generator": "arachne",
+    "wipe_speed": "0%"
 }

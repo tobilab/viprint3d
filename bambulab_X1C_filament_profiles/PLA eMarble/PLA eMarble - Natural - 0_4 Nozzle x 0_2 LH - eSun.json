@@ -68,9 +68,6 @@
     ],
     "inherits": "Generic PLA",
     "name": "PLA eMarble - Natural - 0_4 Nozzle x 0_2 LH - eSun",
-    "nozzle_temperature": [
-        "230"
-    ],
     "nozzle_temperature_range_high": [
         "230"
     ],
@@ -78,7 +75,7 @@
         "25%"
     ],
     "pressure_advance": [
-        "0.033"
+        "0.021"
     ],
     "slow_down_min_speed": [
         "0.5"
@@ -87,10 +84,10 @@
         "51"
     ],
     "textured_plate_temp": [
-        "65"
+        "60"
     ],
     "textured_plate_temp_initial_layer": [
-        "65"
+        "60"
     ],
     "version": "1.6.0.2"
 }

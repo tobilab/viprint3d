@@ -80,9 +80,6 @@
     "pressure_advance": [
         "0.023"
     ],
-    "slow_down_layer_time": [
-        "3"
-    ],
     "slow_down_min_speed": [
         "0.5"
     ],

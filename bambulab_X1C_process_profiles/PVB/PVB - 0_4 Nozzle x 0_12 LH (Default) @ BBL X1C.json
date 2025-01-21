@@ -35,6 +35,7 @@
     "seam_gap": "30%",
     "seam_slope_conditional": "1",
     "seam_slope_type": "all",
+    "skirt_loops": "1",
     "small_perimeter_speed": "20",
     "small_perimeter_threshold": "2",
     "sparse_infill_density": "20%",
