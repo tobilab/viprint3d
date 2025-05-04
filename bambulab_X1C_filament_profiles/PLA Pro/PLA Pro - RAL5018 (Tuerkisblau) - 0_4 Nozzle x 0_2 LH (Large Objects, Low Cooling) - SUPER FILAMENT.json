@@ -24,10 +24,10 @@
         "1"
     ],
     "eng_plate_temp": [
-        "65"
+        "60"
     ],
     "eng_plate_temp_initial_layer": [
-        "65"
+        "60"
     ],
     "fan_max_speed": [
         "35"
@@ -76,10 +76,10 @@
     ],
     "from": "User",
     "hot_plate_temp": [
-        "65"
+        "60"
     ],
     "hot_plate_temp_initial_layer": [
-        "65"
+        "60"
     ],
     "inherits": "Generic PLA",
     "name": "PLA Pro - RAL5018 (Tuerkisblau) - 0_4 Nozzle x 0_2 LH (Large Objects, Low Cooling) - SUPER FILAMENT",
@@ -99,10 +99,10 @@
         "55"
     ],
     "textured_plate_temp": [
-        "65"
+        "60"
     ],
     "textured_plate_temp_initial_layer": [
-        "65"
+        "60"
     ],
     "version": "1.4.1.4"
 }

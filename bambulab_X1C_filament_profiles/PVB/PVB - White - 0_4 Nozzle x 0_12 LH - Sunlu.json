@@ -89,9 +89,6 @@
     "overhang_fan_threshold": [
         "25%"
     ],
-    "pellet_flow_coefficient": [
-        "0.417181"
-    ],
     "pressure_advance": [
         "0.028"
     ],

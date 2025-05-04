@@ -1,0 +1,12 @@
+{
+    "default_filament_colour": [
+        "#C0C0C0"
+    ],
+    "filament_settings_id": [
+        "TPU for AMS - Grau - 0_4 Nozzle x 0_2 LH - Bambu Lab"
+    ],
+    "from": "User",
+    "inherits": "TPU for AMS - Blau - 0_4 Nozzle x 0_2 LH - Bambu Lab",
+    "name": "TPU for AMS - Grau - 0_4 Nozzle x 0_2 LH - Bambu Lab",
+    "version": "1.10.1.50"
+}

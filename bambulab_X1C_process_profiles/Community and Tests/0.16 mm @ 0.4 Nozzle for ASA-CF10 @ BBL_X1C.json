@@ -14,8 +14,6 @@
     "overhang_4_4_speed": "5",
     "print_settings_id": "0.16 mm @ 0.4 Nozzle for ASA-CF10 @ BBL_X1C",
     "seam_gap": "0%",
-    "seam_slope_conditional": "1",
-    "seam_slope_type": "external",
     "support_base_pattern": "rectilinear-grid",
     "support_base_pattern_spacing": "1",
     "support_interface_bottom_layers": "3",

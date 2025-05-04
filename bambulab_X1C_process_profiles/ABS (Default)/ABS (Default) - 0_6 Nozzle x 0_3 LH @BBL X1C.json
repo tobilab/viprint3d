@@ -19,8 +19,6 @@
     "print_settings_id": "ABS (Default) - 0_6 Nozzle x 0_3 LH @BBL X1C",
     "scarf_angle_threshold": "80",
     "seam_gap": "0%",
-    "seam_slope_conditional": "1",
-    "seam_slope_type": "external",
     "sparse_infill_pattern": "gyroid",
     "version": "1.8.0.25",
     "wall_generator": "arachne",

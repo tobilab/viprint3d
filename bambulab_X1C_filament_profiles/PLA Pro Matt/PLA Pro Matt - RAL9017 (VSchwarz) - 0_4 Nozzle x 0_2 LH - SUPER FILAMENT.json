@@ -1,4 +1,7 @@
 {
+    "additional_cooling_fan_speed": [
+        "29"
+    ],
     "close_fan_the_first_x_layers": [
         "3"
     ],
@@ -15,10 +18,10 @@
         "1"
     ],
     "eng_plate_temp": [
-        "65"
+        "55"
     ],
     "eng_plate_temp_initial_layer": [
-        "65"
+        "55"
     ],
     "fan_cooling_layer_time": [
         "7"
@@ -69,12 +72,6 @@
         "Spiral Lift"
     ],
     "from": "User",
-    "hot_plate_temp": [
-        "65"
-    ],
-    "hot_plate_temp_initial_layer": [
-        "65"
-    ],
     "inherits": "Generic PLA",
     "name": "PLA Pro Matt - RAL9017 (VSchwarz) - 0_4 Nozzle x 0_2 LH - SUPER FILAMENT",
     "nozzle_temperature_range_high": [
@@ -94,18 +91,6 @@
     ],
     "temperature_vitrification": [
         "55"
-    ],
-    "textured_cool_plate_temp": [
-        "45"
-    ],
-    "textured_cool_plate_temp_initial_layer": [
-        "45"
-    ],
-    "textured_plate_temp": [
-        "65"
-    ],
-    "textured_plate_temp_initial_layer": [
-        "65"
     ],
     "version": "1.4.1.4"
 }

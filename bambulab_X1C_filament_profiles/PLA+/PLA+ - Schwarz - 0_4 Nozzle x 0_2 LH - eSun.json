@@ -1,4 +1,7 @@
 {
+    "additional_cooling_fan_speed": [
+        "29"
+    ],
     "cool_plate_temp": [
         "40"
     ],

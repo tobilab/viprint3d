@@ -71,9 +71,6 @@
     "overhang_fan_speed": [
         "100"
     ],
-    "pellet_flow_coefficient": [
-        "0.415752"
-    ],
     "pressure_advance": [
         "0.038"
     ],
@@ -82,9 +79,6 @@
     ],
     "slow_down_min_speed": [
         "0.5"
-    ],
-    "support_material_interface_fan_speed": [
-        "90"
     ],
     "temperature_vitrification": [
         "85"
